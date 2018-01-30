@@ -8,7 +8,7 @@ namespace kaffe
 {
     class FlatWhite : Kaffe, Imælk
     { /// <summary>
-    ///  interfacet inplementeres sammen med pris hvorefter man, override virtual metoden Styrke og ændre den til mild.
+    ///  interfacet inplementeres sammen med den absracte metode pris hvorefter man, override virtual metoden Styrke og ændre den til mild.
     /// </summar >
     /// <returns></returns>
         public int MlMælk()
