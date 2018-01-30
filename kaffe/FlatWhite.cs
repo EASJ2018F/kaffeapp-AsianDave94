@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace kaffe
 {
-    class FlatWhite : Kaffe, Imælk
+    public class FlatWhite : Kaffe, Imælk
     { /// <summary>
     ///  interfacet inplementeres sammen med den absracte metode pris hvorefter man, override virtual metoden Styrke og ændre den til mild.
     /// </summar >
